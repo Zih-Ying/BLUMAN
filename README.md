@@ -1,6 +1,8 @@
 # Book
 Allan G. Bluman (2022). *Elementary Statistics (Revised edition)*.
 
+實習課做的檔案，留個紀錄在這，刪掉太可惜了(*´▽`*)
+
 # Contents
 
 - **Chapter 1** The Nature of Probability and Statistics
